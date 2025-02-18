@@ -1,3 +1,4 @@
+A sleek and intuitive UI/UX design for a Personalized AI Companion, created in Figma. This design prioritizes user engagement, accessibility, and seamless interactions, making AI feel more human and adaptive.
 To see the design in figma use the link  given below
 
 
